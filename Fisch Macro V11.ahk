@@ -28,7 +28,7 @@ AutoLookDelay := 200
 
 ; Set to true to automatically blur the camera
 AutoBlurCamera := true
-AutoBlurDelay := 50
+AutoBlurDelay := false
 
 ; How long to wait after fishing before restarting
 RestartDelay := 1000
@@ -40,7 +40,7 @@ HoldRodCastDuration := 1000
 WaitForBobberDelay := 1000
 
 ; Set this to your navigation key, IMPORTANT
-NavigationKey := "ň"
+NavigationKey := "\"
 
 ;     SHAKE SETTINGS     ====================================================================================================;
 
